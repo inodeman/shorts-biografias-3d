@@ -1,0 +1,7 @@
+Grace Hopper nació el nueve de diciembre de mil novecientos seis en Nueva York y murió el uno de enero de mil novecientos noventa y dos en Arlington. Trabajó en Harvard con la Mark uno durante la guerra.
+
+Impulsó compiladores y el lenguaje COBOL para que se pudiera programar con palabras y no solo con códigos de máquina. El cambio es de oficio. Pasa de la instrucción cruda a una frase que se puede leer y corregir, sin quedarse en el código desnudo.
+
+En mil novecientos cuarenta y siete el cuaderno de la Mark dos guardó una polilla pegada. De ahí se popularizó el cuento del bug. Ella no inventó la palabra. La volvió de uso común.
+
+El grado de contralmirante y el compilador no se pisan. Uno es el rango con el que se retiró. El otro es la herramienta que pidió programar con palabras. Arlington, en mil novecientos noventa y dos, cierra la ficha. El cuaderno de la polilla es de mil novecientos cuarenta y siete.

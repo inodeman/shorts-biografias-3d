@@ -1,0 +1,7 @@
+Charles Babbage nació el veintiséis de diciembre de mil setecientos noventa y uno en Londres y murió el dieciocho de octubre de mil ochocientos setenta y uno en la misma ciudad. Diseñó la máquina de diferencias para calcular tablas. Después diseñó la máquina analítica, con molino, almacén y tarjetas perforadas.
+
+El gobierno británico financió una parte y luego cortó el dinero. Ninguna de las dos máquinas se completó en vida de él. Los planos quedaron.
+
+Ada Lovelace escribió notas sobre la analítica. La idea de una máquina programable quedó en esos papeles y en un fragmento que su hijo mandó construir después. El fragmento no es la máquina completa. Es la prueba de que una parte se podía armar fuera del plano.
+
+El corte del dinero no borra el diseño. Tampoco convierte el diseño en una máquina terminada en vida de Babbage. En mil ochocientos setenta y uno la analítica seguía siendo un plano, más unas notas, más un fragmento posterior. Eso es lo que hay.

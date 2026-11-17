@@ -1,0 +1,7 @@
+John von Neumann nació el veintiocho de diciembre de mil novecientos tres en Budapest y murió el ocho de febrero de mil novecientos cincuenta y siete en Washington. Murió de un cáncer, a los cincuenta y tres años.
+
+Otros, en el grupo de Eckert y Mauchly, ya trabajaban esa idea. No es un invento de un solo autor. El informe es el texto que se cita. Citar el informe no borra al grupo que ya estaba sobre la máquina, y el grupo no borra el informe.
+
+También escribió el libro de teoría de juegos con Morgenstern y participó en el Proyecto Manhattan. Son tres frentes en una misma vida. Ninguno anula a los otros, y ninguno autoriza a decir que construyó solo la computadora.
+
+El informe de la EDVAC es el texto que se cita. No es el único autor del siglo. La memoria compartida entre programa y datos queda escrita ahí, con más de una mano detrás. Budapest abre en mil novecientos tres. Washington cierra en mil novecientos cincuenta y siete.

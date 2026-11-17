@@ -1,6 +1,6 @@
 # Biografías 3D
 
-364 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+374 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -379,3 +379,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 362 | `362-tycho-brahe` | Tycho Brahe: Midió el cielo sin telescopio | Ciencia | 1:17 |
 | 363 | `363-edmond-halley` | Edmond Halley: Pagó la impresión de Newton | Ciencia | 1:18 |
 | 364 | `364-joseph-fourier` | Joseph Fourier: El calor se volvió serie | Ciencia | 1:19 |
+| 365 | `365-alessandro-volta` | Alessandro Volta: La pila es de 1800 | Ciencia | 1:24 |
+| 366 | `366-andre-marie-ampere` | André-Marie Ampère: Dos cables que se atraen | Ciencia | 1:10 |
+| 367 | `367-georg-simon-ohm` | Georg Simon Ohm: La ley tardó en ser ley | Ciencia | 1:21 |
+| 368 | `368-heinrich-hertz` | Heinrich Hertz: Oyó la chispa del otro lado | Ciencia | 1:17 |
+| 369 | `369-james-watt` | James Watt: No inventó la máquina de vapor | Ciencia | 1:25 |
+| 370 | `370-charles-babbage` | Charles Babbage: La máquina analítica no se terminó | Ciencia | 1:16 |
+| 371 | `371-grace-hopper` | Grace Hopper: Un compilador, y un grado de almirante | Ciencia | 1:11 |
+| 372 | `372-claude-shannon` | Claude Shannon: La información se midió en 1948 | Ciencia | 1:18 |
+| 373 | `373-john-von-neumann` | John von Neumann: No construyó solo la computadora | Ciencia | 1:16 |
+| 374 | `374-kurt-godel` | Kurt Gödel: En 1931 el sistema no se cerró | Ciencia | 1:13 |
