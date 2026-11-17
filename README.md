@@ -1,6 +1,6 @@
 # Biografías 3D
 
-454 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+464 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -469,3 +469,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 452 | `452-utagawa-hiroshige` | Utagawa Hiroshige: Una serie de estaciones del camino | Mundo | 1:10 |
 | 453 | `453-akiko-yosano` | Akiko Yosano: Más que el primer poemario | Mundo | 1:12 |
 | 454 | `454-toyotomi-hideyoshi` | Toyotomi Hideyoshi: La unificación y las invasiones fallidas | Mundo | 1:09 |
+| 455 | `455-tokugawa-ieyasu` | Tokugawa Ieyasu: El shogunato heredó la guerra | Mundo | 1:08 |
+| 456 | `456-yi-sun-sin` | Yi Sun-sin: Barcos de guerra y última batalla | Mundo | 1:03 |
+| 457 | `457-hideyo-noguchi` | Hideyo Noguchi: La enfermedad del propio laboratorio | Mundo | 1:13 |
+| 458 | `458-kitasato-shibasaburo` | Kitasato Shibasaburo: Dos hallazgos y una prioridad discutida | Mundo | 1:05 |
+| 459 | `459-usman-dan-fodio` | Usman dan Fodio: El califato del Sahel | Mundo | 1:10 |
+| 460 | `460-olympe-de-gouges` | Olympe de Gouges: La declaración que nadie votó | Mundo | 1:07 |
+| 461 | `461-mary-wollstonecraft` | Mary Wollstonecraft: Un argumento, no un partido | Mundo | 1:10 |
+| 462 | `462-emmeline-pankhurst` | Emmeline Pankhurst: El voto igual el año de su muerte | Mundo | 1:12 |
+| 463 | `463-clara-zetkin` | Clara Zetkin: Copenhague y el Reichstag | Mundo | 1:07 |
+| 464 | `464-rosa-luxemburg` | Rosa Luxemburg: Enero en Berlín | Mundo | 1:06 |
