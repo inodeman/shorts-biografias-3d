@@ -1,6 +1,6 @@
 # Biografías 3D
 
-374 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+384 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -389,3 +389,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 372 | `372-claude-shannon` | Claude Shannon: La información se midió en 1948 | Ciencia | 1:18 |
 | 373 | `373-john-von-neumann` | John von Neumann: No construyó solo la computadora | Ciencia | 1:16 |
 | 374 | `374-kurt-godel` | Kurt Gödel: En 1931 el sistema no se cerró | Ciencia | 1:13 |
+| 375 | `375-david-hilbert` | David Hilbert: Veintitrés problemas, y un discurso | Ciencia | 1:24 |
+| 376 | `376-maria-goeppert-mayer` | Maria Goeppert Mayer: El Nobel llegó después de los cargos sin sueldo | Ciencia | 1:21 |
+| 377 | `377-irene-joliot-curie` | Irène Joliot-Curie: La radiactividad que se fabricó | Ciencia | 1:24 |
+| 378 | `378-werner-heisenberg` | Werner Heisenberg: La incertidumbre, y el proyecto de guerra | Ciencia | 1:05 |
+| 379 | `379-erwin-schrodinger` | Erwin Schrödinger: La ecuación, y un libro sobre la vida | Ciencia | 1:14 |
+| 380 | `380-paul-dirac` | Paul Dirac: La ecuación predijo el positrón | Ciencia | 1:13 |
+| 381 | `381-subrahmanyan-chandrasekhar` | Subrahmanyan Chandrasekhar: Eddington se burló, el límite se quedó | Ciencia | 1:18 |
+| 382 | `382-stephen-hawking` | Stephen Hawking: Los agujeros negros también radian | Ciencia | 1:15 |
+| 383 | `383-alfred-russel-wallace` | Alfred Russel Wallace: La carta que apuró a Darwin | Ciencia | 1:17 |
+| 385 | `385-rembrandt` | Rembrandt: La ronda, y después la quiebra | Artes | 1:03 |
