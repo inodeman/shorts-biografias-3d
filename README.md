@@ -1,6 +1,6 @@
 # Biografías 3D
 
-424 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+434 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -438,4 +438,14 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 421 | `421-scott-joplin` | Scott Joplin: Maple Leaf Rag, 1899 | Artes | 1:11 |
 | 422 | `422-louis-armstrong` | Louis Armstrong: Hot Five, y una frase sobre Little Rock | Artes | 1:03 |
 | 423 | `423-ella-fitzgerald` | Ella Fitzgerald: El concurso del Apollo, 1934 | Artes | 1:12 |
+| 424 | `424-bessie-smith` | Bessie Smith: La emperatriz del blues | Artes | 1:12 |
 | 425 | `425-celia-cruz` | Celia Cruz: No volvió a La Habana | Artes | 1:14 |
+| 426 | `426-benny-more` | Benny Moré: El bárbaro del ritmo se quedó | Artes | 1:06 |
+| 427 | `427-camille-claudel` | Camille Claudel: Treinta años en el asilo | Artes | 1:08 |
+| 428 | `428-mary-cassatt` | Mary Cassatt: Estadounidense en el grupo de París | Artes | 1:12 |
+| 429 | `429-berthe-morisot` | Berthe Morisot: Estuvo en las exposiciones del grupo | Artes | 1:08 |
+| 430 | `430-rosa-bonheur` | Rosa Bonheur: La feria de los caballos | Artes | 1:06 |
+| 431 | `431-tarsila-do-amaral` | Tarsila do Amaral: Abaporu, 1928 | Artes | 1:09 |
+| 432 | `432-wifredo-lam` | Wifredo Lam: La jungla está en Nueva York | Artes | 1:00 |
+| 433 | `433-candido-portinari` | Cândido Portinari: Los murales, y el blanco de plomo | Artes | 1:07 |
+| 434 | `434-joaquin-torres-garcia` | Joaquín Torres-García: El norte está abajo | Artes | 1:07 |
