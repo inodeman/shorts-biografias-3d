@@ -1,6 +1,6 @@
 # Biografías 3D
 
-464 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+474 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -479,3 +479,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 462 | `462-emmeline-pankhurst` | Emmeline Pankhurst: El voto igual el año de su muerte | Mundo | 1:12 |
 | 463 | `463-clara-zetkin` | Clara Zetkin: Copenhague y el Reichstag | Mundo | 1:07 |
 | 464 | `464-rosa-luxemburg` | Rosa Luxemburg: Enero en Berlín | Mundo | 1:06 |
+| 465 | `465-hannah-arendt` | Hannah Arendt: Esa frase no absuelve | Mundo | 1:11 |
+| 466 | `466-simone-de-beauvoir` | Simone de Beauvoir: No se nace mujer | Mundo | 1:09 |
+| 467 | `467-simone-weil` | Simone Weil: La fábrica y la ración | Mundo | 1:08 |
+| 468 | `468-susan-b-anthony` | Susan B. Anthony: Votó y no vio la enmienda | Mundo | 1:12 |
+| 469 | `469-elizabeth-cady-stanton` | Elizabeth Cady Stanton: Seneca Falls y la pluma | Mundo | 1:14 |
+| 470 | `470-phillis-wheatley` | Phillis Wheatley: El prólogo no era un honor | Mundo | 1:03 |
+| 471 | `471-w-e-b-du-bois` | W. E. B. Du Bois: Un día antes de la marcha | Mundo | 1:08 |
+| 472 | `472-booker-t-washington` | Booker T. Washington: Tuskegee y la crítica | Mundo | 1:08 |
+| 473 | `473-marcus-garvey` | Marcus Garvey: El barco que quebró | Mundo | 1:08 |
+| 474 | `474-zora-neale-hurston` | Zora Neale Hurston: La tumba sin nombre | Mundo | 1:06 |
