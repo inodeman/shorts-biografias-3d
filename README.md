@@ -1,6 +1,6 @@
 # Biografías 3D
 
-354 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+364 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -369,3 +369,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 352 | `352-lima-barreto` | Lima Barreto: Policarpo Quaresma no ganó en vida | América | 1:13 |
 | 353 | `353-maria-firmina-dos-reis` | Maria Firmina dos Reis: Úrsula, 1859 | América | 1:24 |
 | 354 | `354-chiquinha-gonzaga` | Chiquinha Gonzaga: Abre alas, y se fue de casa | América | 1:12 |
+| 355 | `355-leonhard-euler` | Leonhard Euler: Ciego, y siguió dictando | Ciencia | 1:10 |
+| 356 | `356-carl-friedrich-gauss` | Carl Friedrich Gauss: Publicó poco de lo que ya sabía | Ciencia | 1:13 |
+| 357 | `357-evariste-galois` | Évariste Galois: Veinte años y una carta | Ciencia | 1:10 |
+| 358 | `358-blaise-pascal` | Blaise Pascal: La máquina, el vacío y los pensamientos | Ciencia | 1:18 |
+| 359 | `359-gottfried-leibniz` | Gottfried Leibniz: El cálculo, y una pelea de prioridad | Ciencia | 1:15 |
+| 360 | `360-rene-descartes` | René Descartes: El discurso salió en 1637 | Ciencia | 1:08 |
+| 361 | `361-christiaan-huygens` | Christiaan Huygens: El reloj y el anillo de Saturno | Ciencia | 1:15 |
+| 362 | `362-tycho-brahe` | Tycho Brahe: Midió el cielo sin telescopio | Ciencia | 1:17 |
+| 363 | `363-edmond-halley` | Edmond Halley: Pagó la impresión de Newton | Ciencia | 1:18 |
+| 364 | `364-joseph-fourier` | Joseph Fourier: El calor se volvió serie | Ciencia | 1:19 |
