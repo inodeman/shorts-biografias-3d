@@ -1,6 +1,6 @@
 # Biografías 3D
 
-324 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+334 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -339,3 +339,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 322 | `322-javier-solis` | Javier Solís: Sombras, y una operación | México | 1:09 |
 | 323 | `323-tona-la-negra` | Toña la Negra: El bolero salió del puerto | México | 1:09 |
 | 324 | `324-cri-cri` | Francisco Gabilondo Soler: El grillito de la radio | México | 1:04 |
+| 325 | `325-dessalines` | Jean-Jacques Dessalines: De esclavo a emperador en un año | América | 1:07 |
+| 326 | `326-alexandre-petion` | Alexandre Pétion: Armas para Bolívar, con una condición | América | 1:12 |
+| 327 | `327-tupac-katari` | Túpac Katari: El cerco de La Paz | América | 1:07 |
+| 328 | `328-bartolome-de-las-casas` | Bartolomé de las Casas: Primero tuvo encomienda | América | 1:10 |
+| 329 | `329-andres-de-santa-cruz` | Andrés de Santa Cruz: La confederación duró tres años | América | 1:14 |
+| 330 | `330-rodriguez-de-francia` | José Gaspar Rodríguez de Francia: El supremo cerró las puertas | América | 1:06 |
+| 331 | `331-juana-manuela-gorriti` | Juana Manuela Gorriti: El salón y el destierro | América | 1:08 |
+| 332 | `332-juana-manso` | Juana Manso: Escuelas mixtas, y un periódico | América | 1:11 |
+| 333 | `333-ricardo-palma` | Ricardo Palma: Rehízo la biblioteca quemada | América | 1:14 |
+| 334 | `334-gonzalez-prada` | Manuel González Prada: Después de la derrota, el ensayo | América | 1:10 |
