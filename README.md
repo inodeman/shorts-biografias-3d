@@ -1,6 +1,6 @@
 # Biografías 3D
 
-394 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+404 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -409,3 +409,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 392 | `392-hieronymus-bosch` | Hieronymus Bosch: El jardín, y pocos papeles | Artes | 1:09 |
 | 393 | `393-pieter-bruegel` | Pieter Bruegel el Viejo: Los cazadores en la nieve | Artes | 1:11 |
 | 394 | `394-pedro-pablo-rubens` | Pedro Pablo Rubens: El taller y la diplomacia | Artes | 1:10 |
+| 395 | `395-jan-van-eyck` | Jan van Eyck: Firmó el altar de Gante | Artes | 1:06 |
+| 396 | `396-francisco-de-zurbaran` | Francisco de Zurbarán: Monjes para América | Artes | 1:05 |
+| 397 | `397-bartolome-murillo` | Bartolomé Esteban Murillo: Sevilla, y un andamio | Artes | 1:05 |
+| 398 | `398-edouard-manet` | Édouard Manet: Olympia se expuso en 1865 | Artes | 1:06 |
+| 399 | `399-edgar-degas` | Edgar Degas: El pastel, y el caso Dreyfus | Artes | 1:11 |
+| 400 | `400-pierre-auguste-renoir` | Pierre-Auguste Renoir: El pincel atado a la mano | Artes | 1:08 |
+| 401 | `401-paul-cezanne` | Paul Cézanne: La montaña de Aix | Artes | 1:21 |
+| 402 | `402-paul-gauguin` | Paul Gauguin: Agente de bolsa, luego Tahití | Artes | 1:03 |
+| 403 | `403-toulouse-lautrec` | Henri de Toulouse-Lautrec: El cartel del Moulin | Artes | 1:10 |
+| 404 | `404-georges-seurat` | Georges Seurat: La Grande Jatte se pintó por puntos | Artes | 1:08 |
