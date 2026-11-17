@@ -1,0 +1,7 @@
+Ada Lovelace nació el diez de diciembre de mil ochocientos quince, en Londres. Murió el veintisiete de noviembre de mil ochocientos cincuenta y dos. Era hija de Byron. Esa línea abre muchas biografías y cierra mal la suya, porque el trabajo no está en el apellido del padre.
+
+En mil ochocientos cuarenta y tres escribió notas sobre la máquina analítica de Charles Babbage. La nota G, sobre todo, contiene el primer algoritmo publicado pensado para una máquina. No inventó la computadora. Hay que decirlo así de claro. Babbage diseñó la máquina. Ella escribió las notas.
+
+Y en esas notas vio algo que no era un adorno: la máquina podía manipular símbolos, no solo números. Un aparato de cifras podía volverse un aparato de signos. Esa idea es el salto. No un invento que no le corresponde, sino una manera de pensar lo que la máquina podría hacer.
+
+Londres, mil ochocientos cuarenta y tres, una nota que resultó ser el texto. El mérito cabe ahí. No antes, y no en una máquina que diseñó otro.

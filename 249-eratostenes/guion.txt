@@ -1,0 +1,7 @@
+Eratóstenes nació hacia el año doscientos setenta y seis antes de la era común, en Cirene, y murió hacia el ciento noventa y cuatro, en Alejandría. Dirigió la Biblioteca. El cargo le daba libros. La medición que se recuerda le pidió un pozo y una columna.
+
+En Siena, al mediodía del solsticio, el sol caía al fondo de un pozo. En Alejandría, el mismo día, una columna dejaba sombra. El ángulo de esa sombra y la distancia entre las dos ciudades le bastaron para estimar la circunferencia de la Tierra. El resultado depende de cuánto midiera el estadio que usó. Aun con esa duda, el orden de magnitud es el de la Tierra real.
+
+También dejó una criba para encontrar números primos. Se tacha de un modo simple y queda el primo. Se enseña todavía.
+
+Lo llamaron beta, el segundo, como si no hubiera sido el primero en nada. La circunferencia contesta ese apodo mejor que un elogio.
