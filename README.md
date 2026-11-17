@@ -1,6 +1,6 @@
 # Biografías 3D
 
-404 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+414 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -419,3 +419,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 402 | `402-paul-gauguin` | Paul Gauguin: Agente de bolsa, luego Tahití | Artes | 1:03 |
 | 403 | `403-toulouse-lautrec` | Henri de Toulouse-Lautrec: El cartel del Moulin | Artes | 1:10 |
 | 404 | `404-georges-seurat` | Georges Seurat: La Grande Jatte se pintó por puntos | Artes | 1:08 |
+| 405 | `405-henri-matisse` | Henri Matisse: De las fieras a las tijeras | Artes | 1:06 |
+| 406 | `406-wassily-kandinsky` | Wassily Kandinsky: De la ley al Bauhaus | Artes | 1:06 |
+| 407 | `407-piet-mondrian` | Piet Mondrian: El último cuadro es de Nueva York | Artes | 1:06 |
+| 408 | `408-edvard-munch` | Edvard Munch: El grito tiene más de una versión | Artes | 1:03 |
+| 409 | `409-gustav-klimt` | Gustav Klimt: La Secesión y el beso | Artes | 1:08 |
+| 410 | `410-joseph-haydn` | Joseph Haydn: Ciento cuatro sinfonías en la casa del príncipe | Artes | 1:08 |
+| 411 | `411-franz-schubert` | Franz Schubert: Seiscientos lieder y treinta y un años | Artes | 1:09 |
+| 412 | `412-johannes-brahms` | Johannes Brahms: La primera sinfonía tardó años | Artes | 1:09 |
+| 413 | `413-richard-wagner` | Richard Wagner: Bayreuth, y un panfleto | Artes | 1:18 |
+| 414 | `414-giuseppe-verdi` | Giuseppe Verdi: Falstaff a los casi ochenta | Artes | 1:02 |
