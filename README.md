@@ -1,6 +1,6 @@
 # Biografías 3D
 
-484 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+494 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -499,3 +499,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 482 | `482-eleanor-roosevelt` | Eleanor Roosevelt: La sostuvo en el comité | Mundo | 1:02 |
 | 483 | `483-catalina-ii-de-rusia` | Catalina II de Rusia: Ilustración y servidumbre | Mundo | 1:08 |
 | 484 | `484-isabel-i-de-inglaterra` | Isabel I de Inglaterra: Sin boda y sin desembarco | Mundo | 1:06 |
+| 485 | `485-robert-boyle` | Robert Boyle: No es el padre único | Ciencia | 1:14 |
+| 486 | `486-john-dalton` | John Dalton: Pesos distintos para cada átomo | Ciencia | 1:06 |
+| 487 | `487-joseph-john-thomson` | Joseph John Thomson: El electrón no es el premio | Ciencia | 1:09 |
+| 488 | `488-ernest-rutherford` | Ernest Rutherford: Partículas alfa, no las manos | Ciencia | 1:10 |
+| 489 | `489-max-born` | Max Born: La onda se lee en probabilidad | Ciencia | 1:12 |
+| 490 | `490-wolfgang-pauli` | Wolfgang Pauli: Nombró el neutrino y no lo vio | Ciencia | 1:10 |
+| 491 | `491-richard-feynman` | Richard Feynman: La junta es el dato | Ciencia | 1:05 |
+| 492 | `492-abdus-salam` | Abdus Salam: La lápida no anula el trabajo | Ciencia | 1:02 |
+| 493 | `493-c-v-raman` | C. V. Raman: Luz dispersada en Calcuta | Ciencia | 1:09 |
+| 494 | `494-e-k-janaki-ammal` | E. K. Janaki Ammal: Herbario y cromosomas contados | Ciencia | 1:08 |
