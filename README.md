@@ -1,6 +1,6 @@
 # Biografías 3D
 
-304 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+314 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -319,3 +319,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 302 | `302-praxedis-guerrero` | Práxedis G. Guerrero: Janos, el último diciembre | México | 1:14 |
 | 303 | `303-elisa-acuna` | Elisa Acuña Rossetti: Presa en Belén, maestra después | México | 1:16 |
 | 304 | `304-luz-jimenez` | Luz Jiménez: No solo el rostro de los murales | México | 1:16 |
+| 305 | `305-saturnino-herran` | Saturnino Herrán: La ofrenda, y treinta y un años | México | 1:17 |
+| 306 | `306-dr-atl` | Dr. Atl: El que miraba los volcanes | México | 1:07 |
+| 307 | `307-nahui-olin` | Nahui Olin: El nombre que le puso un volcán | México | 1:13 |
+| 308 | `308-nellie-campobello` | Nellie Campobello: Cartucho, y una desaparición | México | 1:16 |
+| 309 | `309-antonieta-rivas-mercado` | Antonieta Rivas Mercado: Pagó el teatro y la campaña | México | 1:13 |
+| 310 | `310-xavier-villaurrutia` | Xavier Villaurrutia: Los nocturnos, no el estruendo | México | 1:09 |
+| 311 | `311-salvador-novo` | Salvador Novo: El cronista que no pidió permiso | México | 1:06 |
+| 312 | `312-carlos-pellicer` | Carlos Pellicer: Poemas y salas de museo | México | 0:57 |
+| 313 | `313-juan-jose-arreola` | Juan José Arreola: Confabulario, no una novela larga | México | 1:11 |
+| 314 | `314-jose-revueltas` | José Revueltas: El apando se escribió adentro | México | 1:07 |
