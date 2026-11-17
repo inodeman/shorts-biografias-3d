@@ -1,6 +1,6 @@
 # Biografías 3D
 
-344 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+354 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -359,3 +359,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 342 | `342-placido` | Gabriel de la Concepción Valdés: Lo fusilaron en La Escalera | América | 1:09 |
 | 343 | `343-carlos-manuel-de-cespedes` | Carlos Manuel de Céspedes: El grito fue en su ingenio | América | 1:07 |
 | 344 | `344-ramon-emeterio-betances` | Ramón Emeterio Betances: Médico, y el grito de Lares | América | 1:12 |
+| 345 | `345-lola-rodriguez-de-tio` | Lola Rodríguez de Tió: Le cambió la letra a la canción | América | 1:12 |
+| 346 | `346-maximo-gomez` | Máximo Gómez: Dominicano, general de Cuba | América | 1:11 |
+| 347 | `347-luisa-capetillo` | Luisa Capetillo: Huelga, pantalón y un libro | América | 1:13 |
+| 348 | `348-arturo-schomburg` | Arturo Alfonso Schomburg: La biblioteca que nadie le pidió | América | 1:05 |
+| 349 | `349-andres-eloy-blanco` | Andrés Eloy Blanco: El poema, y un coche en México | América | 1:12 |
+| 350 | `350-jose-ingenieros` | José Ingenieros: El hombre mediocre, 1913 | América | 1:14 |
+| 351 | `351-leopoldo-lugones` | Leopoldo Lugones: Del modernismo al discurso del sable | América | 1:17 |
+| 352 | `352-lima-barreto` | Lima Barreto: Policarpo Quaresma no ganó en vida | América | 1:13 |
+| 353 | `353-maria-firmina-dos-reis` | Maria Firmina dos Reis: Úrsula, 1859 | América | 1:24 |
+| 354 | `354-chiquinha-gonzaga` | Chiquinha Gonzaga: Abre alas, y se fue de casa | América | 1:12 |
