@@ -1,6 +1,6 @@
 # Biografías 3D
 
-414 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+424 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -429,3 +429,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 412 | `412-johannes-brahms` | Johannes Brahms: La primera sinfonía tardó años | Artes | 1:09 |
 | 413 | `413-richard-wagner` | Richard Wagner: Bayreuth, y un panfleto | Artes | 1:18 |
 | 414 | `414-giuseppe-verdi` | Giuseppe Verdi: Falstaff a los casi ochenta | Artes | 1:02 |
+| 415 | `415-giacomo-puccini` | Giacomo Puccini: Turandot quedó sin el final | Artes | 1:11 |
+| 416 | `416-franz-liszt` | Franz Liszt: Virtuoso, y después abate | Artes | 1:08 |
+| 417 | `417-claude-debussy` | Claude Debussy: El preludio de la siesta de un fauno | Artes | 1:13 |
+| 418 | `418-maurice-ravel` | Maurice Ravel: El bolero es un experimento | Artes | 1:09 |
+| 419 | `419-igor-stravinsky` | Igor Stravinsky: El escándalo fue en mayo de 1913 | Artes | 1:05 |
+| 420 | `420-dmitri-shostakovich` | Dmitri Shostakóvich: La quinta, después de la denuncia | Artes | 1:06 |
+| 421 | `421-scott-joplin` | Scott Joplin: Maple Leaf Rag, 1899 | Artes | 1:11 |
+| 422 | `422-louis-armstrong` | Louis Armstrong: Hot Five, y una frase sobre Little Rock | Artes | 1:03 |
+| 423 | `423-ella-fitzgerald` | Ella Fitzgerald: El concurso del Apollo, 1934 | Artes | 1:12 |
+| 425 | `425-celia-cruz` | Celia Cruz: No volvió a La Habana | Artes | 1:14 |
