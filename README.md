@@ -1,6 +1,6 @@
 # Biografías 3D
 
-384 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+394 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -398,4 +398,14 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 381 | `381-subrahmanyan-chandrasekhar` | Subrahmanyan Chandrasekhar: Eddington se burló, el límite se quedó | Ciencia | 1:18 |
 | 382 | `382-stephen-hawking` | Stephen Hawking: Los agujeros negros también radian | Ciencia | 1:15 |
 | 383 | `383-alfred-russel-wallace` | Alfred Russel Wallace: La carta que apuró a Darwin | Ciencia | 1:17 |
+| 384 | `384-john-snow` | John Snow: Le quitó el mango a la bomba | Ciencia | 1:10 |
 | 385 | `385-rembrandt` | Rembrandt: La ronda, y después la quiebra | Artes | 1:03 |
+| 386 | `386-rafael` | Rafael: Treinta y siete años en Roma | Artes | 1:09 |
+| 387 | `387-tiziano` | Tiziano: Carlos Quinto recogió el pincel | Artes | 1:10 |
+| 388 | `388-giotto` | Giotto: La capilla de Padua | Artes | 1:09 |
+| 389 | `389-donatello` | Donatello: El David de bronce no es el de mármol | Artes | 1:17 |
+| 390 | `390-brunelleschi` | Filippo Brunelleschi: Perdió las puertas y levantó la cúpula | Artes | 1:04 |
+| 391 | `391-alberto-durero` | Alberto Durero: El grabado viajó más que el cuadro | Artes | 1:08 |
+| 392 | `392-hieronymus-bosch` | Hieronymus Bosch: El jardín, y pocos papeles | Artes | 1:09 |
+| 393 | `393-pieter-bruegel` | Pieter Bruegel el Viejo: Los cazadores en la nieve | Artes | 1:11 |
+| 394 | `394-pedro-pablo-rubens` | Pedro Pablo Rubens: El taller y la diplomacia | Artes | 1:10 |
