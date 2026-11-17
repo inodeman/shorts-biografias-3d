@@ -1,6 +1,6 @@
 # Biografías 3D
 
-284 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+294 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -299,3 +299,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 282 | `282-juana-de-arco` | Juana de Arco: El proceso, en dos sentidos | Mundo | 1:16 |
 | 283 | `283-ibn-rushd` | Ibn Rushd: El Comentador | Mundo | 1:21 |
 | 284 | `284-ida-b-wells` | Ida B. Wells: El periódico que destruyeron | Mundo | 1:20 |
+| 285 | `285-mariano-matamoros` | Mariano Matamoros: El canje que no aceptaron | México | 1:18 |
+| 286 | `286-nicolas-bravo` | Nicolás Bravo: Perdonó y no se lo devolvieron | México | 1:17 |
+| 287 | `287-valentin-gomez-farias` | Valentín Gómez Farías: El médico que le quitó el fuero | México | 1:11 |
+| 288 | `288-juan-alvarez` | Juan Álvarez: El sur que bajó a la capital | México | 1:10 |
+| 289 | `289-ignacio-comonfort` | Ignacio Comonfort: El golpe que no pudo sostener | México | 1:18 |
+| 290 | `290-sebastian-lerdo-de-tejada` | Sebastián Lerdo de Tejada: Cuatro años y un tren a Veracruz | México | 1:13 |
+| 291 | `291-miguel-lerdo-de-tejada` | Miguel Lerdo de Tejada: La ley que partió las tierras de mano muerta | México | 1:18 |
+| 292 | `292-francisco-zarco` | Francisco Zarco: El taquígrafo de un congreso | México | 1:18 |
+| 293 | `293-lucas-alaman` | Lucas Alamán: Industria, archivo y miedo al pueblo | México | 1:18 |
+| 294 | `294-jose-maria-luis-mora` | José María Luis Mora: El cura que escribió contra el fuero | México | 1:11 |
