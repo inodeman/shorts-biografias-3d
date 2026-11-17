@@ -1,6 +1,6 @@
 # Biografías 3D
 
-294 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+304 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -309,3 +309,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 292 | `292-francisco-zarco` | Francisco Zarco: El taquígrafo de un congreso | México | 1:18 |
 | 293 | `293-lucas-alaman` | Lucas Alamán: Industria, archivo y miedo al pueblo | México | 1:18 |
 | 294 | `294-jose-maria-luis-mora` | José María Luis Mora: El cura que escribió contra el fuero | México | 1:11 |
+| 295 | `295-fray-servando` | Fray Servando Teresa de Mier: Un sermón le costó el destierro | México | 1:15 |
+| 296 | `296-carlos-maria-de-bustamante` | Carlos María de Bustamante: El cuadro que escribió mientras ocurría | México | 1:12 |
+| 297 | `297-juana-belen-gutierrez` | Juana Belén Gutiérrez de Mendoza: El periódico se llamaba Vésper | México | 1:17 |
+| 298 | `298-aquiles-serdan` | Aquiles Serdán: Dos días antes del veinte | México | 1:11 |
+| 299 | `299-belisario-dominguez` | Belisario Domínguez: El discurso de septiembre | México | 1:13 |
+| 300 | `300-hermenegildo-galeana` | Hermenegildo Galeana: La costa que peleó con Morelos | México | 1:07 |
+| 301 | `301-mariano-abasolo` | Mariano Abasolo: No lo fusilaron: lo embarcaron | México | 1:20 |
+| 302 | `302-praxedis-guerrero` | Práxedis G. Guerrero: Janos, el último diciembre | México | 1:14 |
+| 303 | `303-elisa-acuna` | Elisa Acuña Rossetti: Presa en Belén, maestra después | México | 1:16 |
+| 304 | `304-luz-jimenez` | Luz Jiménez: No solo el rostro de los murales | México | 1:16 |
