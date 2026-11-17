@@ -1,6 +1,6 @@
 # Biografías 3D
 
-434 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+444 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -449,3 +449,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 432 | `432-wifredo-lam` | Wifredo Lam: La jungla está en Nueva York | Artes | 1:00 |
 | 433 | `433-candido-portinari` | Cândido Portinari: Los murales, y el blanco de plomo | Artes | 1:07 |
 | 434 | `434-joaquin-torres-garcia` | Joaquín Torres-García: El norte está abajo | Artes | 1:07 |
+| 435 | `435-akbar` | Akbar: La yizya no funda una fe de masas | Mundo | 1:11 |
+| 436 | `436-ashoka` | Ashoka: Edictos de piedra después de la guerra | Mundo | 1:13 |
+| 437 | `437-saladino` | Saladino: Jerusalén no volvió con la cruzada | Mundo | 1:18 |
+| 438 | `438-soliman` | Solimán el Magnífico: Viena no se tomó | Mundo | 1:06 |
+| 439 | `439-mehmed-ii` | Mehmed II: La ciudad sigue y el imperio no | Mundo | 1:10 |
+| 440 | `440-sejong` | Sejong el Grande: Un alfabeto de proyecto de corte | Mundo | 1:06 |
+| 441 | `441-zheng-he` | Zheng He: Siete viajes de una flota de estado | Mundo | 1:11 |
+| 442 | `442-qiu-jin` | Qiu Jin: La ejecución queda y el mito después | Mundo | 0:49 |
+| 443 | `443-sun-yat-sen` | Sun Yat-sen: El cargo provisional se cedió | Mundo | 1:07 |
+| 444 | `444-b-r-ambedkar` | B. R. Ambedkar: La constitución y el cambio de fe | Mundo | 1:03 |
