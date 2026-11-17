@@ -1,6 +1,6 @@
 # Biografías 3D
 
-494 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+504 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -509,3 +509,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 492 | `492-abdus-salam` | Abdus Salam: La lápida no anula el trabajo | Ciencia | 1:02 |
 | 493 | `493-c-v-raman` | C. V. Raman: Luz dispersada en Calcuta | Ciencia | 1:09 |
 | 494 | `494-e-k-janaki-ammal` | E. K. Janaki Ammal: Herbario y cromosomas contados | Ciencia | 1:08 |
+| 495 | `495-gerty-cori` | Gerty Cori: El ciclo se publicó igual | Ciencia | 1:06 |
+| 496 | `496-rita-levi-montalcini` | Rita Levi-Montalcini: El factor no es un discurso | Ciencia | 1:08 |
+| 497 | `497-rosalyn-yalow` | Rosalyn Yalow: Insistió en el nombre de él | Ciencia | 1:13 |
+| 498 | `498-gertrude-elion` | Gertrude Elion: Medicamentos sin el doctorado | Ciencia | 1:07 |
+| 499 | `499-nettie-stevens` | Nettie Stevens: El cromosoma queda | Ciencia | 1:09 |
+| 500 | `500-alice-ball` | Alice Ball: El crédito volvió en una revista | Ciencia | 1:08 |
+| 501 | `501-percy-lavon-julian` | Percy Lavon Julian: La síntesis no se quemó | Ciencia | 1:13 |
+| 502 | `502-george-washington-carver` | George Washington Carver: No inventó la mantequilla de cacahuate | Ciencia | 1:11 |
+| 503 | `503-camillo-golgi` | Camillo Golgi: La tinción sí, la red no | Ciencia | 1:06 |
+| 504 | `504-ivan-pavlov` | Ivan Pavlov: El premio no era el perro | Ciencia | 1:05 |
