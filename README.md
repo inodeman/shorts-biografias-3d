@@ -1,6 +1,6 @@
 # Biografías 3D
 
-474 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+484 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -489,3 +489,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 472 | `472-booker-t-washington` | Booker T. Washington: Tuskegee y la crítica | Mundo | 1:08 |
 | 473 | `473-marcus-garvey` | Marcus Garvey: El barco que quebró | Mundo | 1:08 |
 | 474 | `474-zora-neale-hurston` | Zora Neale Hurston: La tumba sin nombre | Mundo | 1:06 |
+| 475 | `475-langston-hughes` | Langston Hughes: Más que un poema | Mundo | 1:06 |
+| 476 | `476-james-baldwin` | James Baldwin: El ensayista que volvía | Mundo | 1:01 |
+| 477 | `477-josephine-baker` | Josephine Baker: Escenario, guerra y marcha | Mundo | 1:09 |
+| 478 | `478-marian-anderson` | Marian Anderson: Le negaron el salón | Mundo | 1:06 |
+| 479 | `479-paul-robeson` | Paul Robeson: La voz y el veto | Mundo | 1:11 |
+| 480 | `480-martin-luther-king-jr` | Martin Luther King Jr.: No murió en un escenario | Mundo | 1:06 |
+| 481 | `481-malcolm-x` | Malcolm X: Del Audubon a La Meca | Mundo | 1:14 |
+| 482 | `482-eleanor-roosevelt` | Eleanor Roosevelt: La sostuvo en el comité | Mundo | 1:02 |
+| 483 | `483-catalina-ii-de-rusia` | Catalina II de Rusia: Ilustración y servidumbre | Mundo | 1:08 |
+| 484 | `484-isabel-i-de-inglaterra` | Isabel I de Inglaterra: Sin boda y sin desembarco | Mundo | 1:06 |
