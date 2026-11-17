@@ -1,6 +1,6 @@
 # Biografías 3D
 
-314 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+324 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -329,3 +329,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 312 | `312-carlos-pellicer` | Carlos Pellicer: Poemas y salas de museo | México | 0:57 |
 | 313 | `313-juan-jose-arreola` | Juan José Arreola: Confabulario, no una novela larga | México | 1:11 |
 | 314 | `314-jose-revueltas` | José Revueltas: El apando se escribió adentro | México | 1:07 |
+| 315 | `315-efrain-huerta` | Efraín Huerta: El cocodrilo y los poemínimos | México | 1:13 |
+| 316 | `316-guadalupe-amor` | Guadalupe Amor: Yo soy mi casa | México | 1:09 |
+| 317 | `317-juan-ruiz-de-alarcon` | Juan Ruiz de Alarcón: La verdad sospechosa se fue a Madrid | México | 1:15 |
+| 318 | `318-siguenza-y-gongora` | Carlos de Sigüenza y Góngora: El cometa no era un castigo | México | 1:02 |
+| 319 | `319-gutierrez-najera` | Manuel Gutiérrez Nájera: La Revista Azul duró poco | México | 1:09 |
+| 320 | `320-lucha-reyes` | Lucha Reyes: La tequilera, a los treinta y ocho | México | 1:01 |
+| 321 | `321-lola-beltran` | Lola Beltrán: De Rosario al cine | México | 1:07 |
+| 322 | `322-javier-solis` | Javier Solís: Sombras, y una operación | México | 1:09 |
+| 323 | `323-tona-la-negra` | Toña la Negra: El bolero salió del puerto | México | 1:09 |
+| 324 | `324-cri-cri` | Francisco Gabilondo Soler: El grillito de la radio | México | 1:04 |
