@@ -1,6 +1,6 @@
 # Biografías 3D
 
-334 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+344 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -349,3 +349,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 332 | `332-juana-manso` | Juana Manso: Escuelas mixtas, y un periódico | América | 1:11 |
 | 333 | `333-ricardo-palma` | Ricardo Palma: Rehízo la biblioteca quemada | América | 1:14 |
 | 334 | `334-gonzalez-prada` | Manuel González Prada: Después de la derrota, el ensayo | América | 1:10 |
+| 335 | `335-teresa-de-la-parra` | Teresa de la Parra: Ifigenia no se quedó en Caracas | América | 1:16 |
+| 336 | `336-romulo-gallegos` | Rómulo Gallegos: Doña Bárbara, y nueve meses de presidencia | América | 1:09 |
+| 337 | `337-juana-de-ibarbourou` | Juana de Ibarbourou: La llamaron Juana de América | América | 1:15 |
+| 338 | `338-delmira-agustini` | Delmira Agustini: Los cálices, y julio de 1914 | América | 1:09 |
+| 339 | `339-jose-enrique-rodo` | José Enrique Rodó: Ariel se publicó en 1900 | América | 1:17 |
+| 340 | `340-gomez-de-avellaneda` | Gertrudis Gómez de Avellaneda: Sab se imprimió en 1841 | América | 1:14 |
+| 341 | `341-jose-maria-heredia` | José María Heredia: El poema del Niágara se escribió en el exilio | América | 1:18 |
+| 342 | `342-placido` | Gabriel de la Concepción Valdés: Lo fusilaron en La Escalera | América | 1:09 |
+| 343 | `343-carlos-manuel-de-cespedes` | Carlos Manuel de Céspedes: El grito fue en su ingenio | América | 1:07 |
+| 344 | `344-ramon-emeterio-betances` | Ramón Emeterio Betances: Médico, y el grito de Lares | América | 1:12 |
