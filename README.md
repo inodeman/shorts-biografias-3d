@@ -1,6 +1,6 @@
 # Biografías 3D
 
-444 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
+454 shorts biográficos en vertical (9:16), con narración en español y animación 3D.
 
 Serie de InodeAi. Cada carpeta incluye:
 
@@ -459,3 +459,13 @@ Las figuras se muestran de espaldas, en silueta o mediante sus lugares y objetos
 | 442 | `442-qiu-jin` | Qiu Jin: La ejecución queda y el mito después | Mundo | 0:49 |
 | 443 | `443-sun-yat-sen` | Sun Yat-sen: El cargo provisional se cedió | Mundo | 1:07 |
 | 444 | `444-b-r-ambedkar` | B. R. Ambedkar: La constitución y el cambio de fe | Mundo | 1:03 |
+| 445 | `445-rani-lakshmibai` | Rani Lakshmibai: El trono del hijo adoptivo | Mundo | 1:11 |
+| 446 | `446-sarojini-naidu` | Sarojini Naidu: De la poesía al gobierno | Mundo | 0:36 |
+| 447 | `447-rammohan-roy` | Rammohan Roy: La campaña no es el decreto | Mundo | 0:40 |
+| 448 | `448-ban-zhao` | Ban Zhao: La historia que otros empezaron | Mundo | 1:13 |
+| 449 | `449-wu-zetian` | Wu Zetian: Dinastía propia, no solo elogio | Mundo | 1:19 |
+| 450 | `450-sei-shonagon` | Sei Shonagon: Lista de corte y no novela | Mundo | 1:05 |
+| 451 | `451-matsuo-basho` | Matsuo Basho: El verso sale de viaje | Mundo | 1:10 |
+| 452 | `452-utagawa-hiroshige` | Utagawa Hiroshige: Una serie de estaciones del camino | Mundo | 1:10 |
+| 453 | `453-akiko-yosano` | Akiko Yosano: Más que el primer poemario | Mundo | 1:12 |
+| 454 | `454-toyotomi-hideyoshi` | Toyotomi Hideyoshi: La unificación y las invasiones fallidas | Mundo | 1:09 |
